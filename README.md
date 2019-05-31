@@ -1,3 +1,3 @@
 # STA-141C
 
-[https://github.com/hushuli/repository/STA-141C/master/image/sc.png|alt=syllabus]
+[[https://github.com/hushuli/STA-141C/image/sc.png|alt=syllabus]]
